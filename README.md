@@ -6,7 +6,7 @@
 - 🔭 Actualmente estoy trabajando como Freelance ( I’m currently working as freelance )
 - 🌱 Actualmente estoy aprendiendo Backend con framework Spring [Allura Latam](https://app.aluracursos.com/) 
 - 🌱 Estoy Estudiando Ingles B1 y Aleman B2 
-- 🎓 Estudios de Ingeniería de Sistemas en [Tecnar](https://www.unitecnar.edu.co/) en Convenio con la CUC (https://www.cuc.edu.co/)
+- 🎓 Estudios de Ingeniería de Sistemas en [Tecnar](https://www.unitecnar.edu.co/) en Convenio con la [CUC](https://www.cuc.edu.co/)
 - 🎓 Especialización en Automatización y control de procesos industriales en [UTB](https://www.utb.edu.co/)
 - 🎓 Especialización tecnologica en Administracion y control BD [SENA](https://www.sena.edu.co/) 
 - 🎓 Cursos En linea de Back-end y Front-end [Udemy](https://www.udemy.com/)
